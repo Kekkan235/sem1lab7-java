@@ -1,0 +1,51 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Скомпилированные файлы и папки сборки
+target/
+out/
+*.class
+
+# Настройки IDE (IntelliJ IDEA / OpenIDE)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Локальные файлы базы данных H2 (на случай запуска в файловом режиме)
+*.mv.db
+*.trace.db
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+
